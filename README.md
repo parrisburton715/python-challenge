@@ -12,4 +12,4 @@
 4. Found the votes casted to the coreesponding candidate.
 5. Determined the winnig candidate.
 ### Winning Candidae:
-- ** Tom Bold ** 
+- **Tom Bold** 
